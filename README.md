@@ -3,7 +3,7 @@
 
 Image Thumbnail CDN      
 
-（开发阶段）  
+（开发中）  
 
 ### 特点  
 - 省心  
