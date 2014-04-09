@@ -1,7 +1,7 @@
-图像缩略图CDN Image Thumbnail CDN
+图像缩略图CDN 
 ============
 
-让缩略图彻底消失！    
+Image Thumbnail CDN      
 
 （开发阶段）  
 
@@ -22,7 +22,7 @@
   - http://thumbnailcdn-xxxxxx.elasticbeanstalk.com/image/path  
   - GET 方法  
   - xxxxxx 为用户ID
-  - image/path 为图片的原始路径  
+  - /image/path 为图片的原始路径  
 - 参数  
   - width: 缩略图宽度 （可选）
   - height: 缩略图高度 （可选）
